@@ -1,1 +1,1 @@
-# manasayanaki.Traveldiaries
+#Traveldiaries
